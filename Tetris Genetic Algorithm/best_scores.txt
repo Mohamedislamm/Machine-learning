@@ -1,0 +1,29 @@
+===== Genetic Algorithm Run =====
+Population size: 20, Generations: 15
+Mutation rate: 0.2, Tournament size: 3
+=================================================
+
+Initial population best score: 10060
+Generation 1: 5600
+Generation 2: 7620
+Generation 3: 7960
+Generation 4: 7260
+Generation 5: 8420
+Generation 6: 9360
+Generation 7: 8460
+Generation 8: 9320
+Generation 9: 7780
+Generation 10: 8880
+Generation 11: 9020
+Generation 12: 8940
+Generation 13: 7300
+Generation 14: 7960
+Generation 15: 9500
+
+===== Final Results =====
+Best score from this run: 10060
+Previous best score: 10420
+No improvement over previous best score (difference: -360)
+Best weights file not updated.
+=====================
+

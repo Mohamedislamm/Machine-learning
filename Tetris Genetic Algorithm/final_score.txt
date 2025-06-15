@@ -1,0 +1,9 @@
+===== Tetris Optimal Run Results =====
+Seed: 42
+Iterations completed: 600/600
+
+Final score: 10420
+Previous best score: 10420
+Difference from best: 0
+
+Game over after 600 iterations
